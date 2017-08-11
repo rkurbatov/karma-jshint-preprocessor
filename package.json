@@ -27,12 +27,12 @@
   },
   "peerDependencies": {
     "karma": ">=0.9",
-    "jshint": "^2.8.0"
+    "jshint": "^2.9.0"
   },
   "devDependencies": {
     "karma": ">=0.9",
     "chai": "^3.3.0",
     "mocha": "^2.3.3",
-    "jshint": "^2.8.0"
+    "jshint": "^2.9.0"
   }
 }
